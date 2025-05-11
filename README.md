@@ -12,7 +12,7 @@ This is a lightweight, object-oriented Python game where a ball bounces between 
 
 ## Technologies
 - Python 3.x
-- `pygame` (or your graphics module, if used)
+- `pygame`
 - Built-in `math` and `time` modules
 
 
